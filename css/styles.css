@@ -63,7 +63,9 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
-
+.ra{
+  line-height: 1.7em !important;
+}
 *,
 *::before,
 *::after {
@@ -493,7 +495,7 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   font-weight: 300;
 }
 
@@ -11290,4 +11292,5 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  
 }
